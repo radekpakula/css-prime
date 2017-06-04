@@ -1,11 +1,11 @@
-package pl;
+package pl.cssprime;
 
 import java.util.HashMap;
 
 import com.vaadin.server.AbstractExtension;
 import com.vaadin.ui.UI;
 
-import pl.client.CssPrimeState;
+import pl.cssprime.client.CssPrimeState;
 
 // This is the server-side UI component that provides public API 
 // for CssPrime

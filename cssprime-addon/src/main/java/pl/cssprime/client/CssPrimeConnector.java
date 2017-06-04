@@ -1,11 +1,11 @@
-package pl.client;
-
-import pl.CssPrime;
+package pl.cssprime.client;
 
 import com.vaadin.client.ServerConnector;
 import com.vaadin.client.annotations.OnStateChange;
 import com.vaadin.client.extensions.AbstractExtensionConnector;
 import com.vaadin.shared.ui.Connect;
+
+import pl.cssprime.CssPrime;
 
 @Connect(CssPrime.class)
 public class CssPrimeConnector extends AbstractExtensionConnector {

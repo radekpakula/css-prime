@@ -1,7 +1,5 @@
 package pl.demo;
 
-import pl.CssPrime;
-
 import javax.servlet.annotation.WebServlet;
 
 import com.vaadin.annotations.PreserveOnRefresh;
@@ -14,6 +12,8 @@ import com.vaadin.ui.Button;
 import com.vaadin.ui.TextArea;
 import com.vaadin.ui.UI;
 import com.vaadin.ui.VerticalLayout;
+
+import pl.cssprime.CssPrime;
 
 @Theme("demo")
 @Title("CssPrime Add-on Demo")

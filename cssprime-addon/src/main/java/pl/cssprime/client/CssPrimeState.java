@@ -1,4 +1,4 @@
-package pl.client;
+package pl.cssprime.client;
 
 import java.util.Map;
 
