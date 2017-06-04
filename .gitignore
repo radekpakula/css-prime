@@ -1,0 +1,8 @@
+.project
+cssprime-addon/target/*
+build/
+bin/
+target/
+.settings/
+.classpath
+WebContent/VAADIN/widgetsets
