@@ -5,8 +5,8 @@
 	<groupId>pl</groupId>
 	<artifactId>cssprime</artifactId>
 	<packaging>jar</packaging>
-	<version>1.0-SNAPSHOT</version>
-	<name>CssPrime Add-on</name>
+	<version>1.0.1</version>
+	<name>CssPrime</name>
 
 	<prerequisites>
 		<maven>3</maven>

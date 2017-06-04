@@ -5,7 +5,7 @@
 	<groupId>pl</groupId>
 	<artifactId>cssprime-root</artifactId>
 	<packaging>pom</packaging>
-	<version>1.0-SNAPSHOT</version>
+	<version>1.0.1</version>
 	<name>CssPrime Add-on Root Project</name>
 
 	<prerequisites>
